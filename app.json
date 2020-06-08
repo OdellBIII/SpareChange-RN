@@ -1,0 +1,17 @@
+{
+  "name": "SpareChange",
+  "displayName": "SpareChange",
+  "expo": {
+    "name": "SpareChange",
+    "slug": "SpareChange",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
